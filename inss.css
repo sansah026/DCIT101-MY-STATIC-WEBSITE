@@ -1,0 +1,23 @@
+body{
+    background-image: url("fff.jpg");
+}
+.body{
+    background-size: cover;
+    height: fit-content;
+    text-align: center;
+    color: limegreen;
+    
+}
+.h{
+    text-transform: capitalize;
+    color: blue;
+    text-decoration: underline;
+}
+.cm{
+    color: aqua;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: aquamarine;
+    font-size: larger;
+    text-decoration: overline;
+}
